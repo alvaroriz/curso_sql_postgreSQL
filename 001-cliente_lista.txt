@@ -1,0 +1,18 @@
+| cliente_id | nome             | cpf         | data_nascimento | sexo | profissao     | observacoes   |
+|------------|------------------|-------------|-----------------|------|---------------|---------------|
+| 1          | Rodrigo          | 03215698711 | 1980-01-25      | M    | Empresário    | Vegan         |
+| 2          | João             | 12345678901 | 1985-06-20      | M    | Engenheiro    |               |
+| 3          | Maria            | 23456789012 | 1990-04-15      | F    | Professora    | Vegetariana   |
+| 4          | Pedro            | 34567890123 | 1987-09-30      | M    | Médico        | Diabético     |
+| 5          | Ana              | 45678901234 | 1986-11-12      | F    | Arquiteta     | Alergia a gato|
+| 6          | Luís             | 56789012345 | 1989-03-25      | M    | Advogado      | Hipertenso    |
+| 7          | Carolina         | 67890123456 | 1992-07-09      | F    | Eng. Mecânico | Vegan         |
+| 8          | Felipe           | 78901234567 | 1988-01-22      | M    | Psicólogo     | Sem glúten    |
+| 9          | Laura            | 89012345678 | 1991-05-11      | F    | Veterinária   | Gestante      |
+| 10         | Bruno            | 90123456789 | 1993-12-18      | M    | Jornalista    | Fumante       |
+| 11         | Patricia         | 01234567890 | 1995-10-06      | F    | Vet.          | Corredora     |
+| 12         | Roberto          | 09876543210 | 1990-02-14      | M    | Programador   | Ciclista      |
+| 13         | Fernanda         | 08765432109 | 1987-08-08      | F    | Nutricionista | Nenhuma       |
+| 14         | Gustavo          | 07654321098 | 1984-05-05      | M    | Químico       | Vegetariano   |
+| 15         | Aline            | 06543210987 | 1992-12-12      | F    | Bióloga       | Sem lactose   |
+
