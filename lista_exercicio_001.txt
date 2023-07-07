@@ -1,0 +1,27 @@
+
+Crie as seguintes consultas na nossa base de dados pedido_venda
+
+1. O nome, o sexo e a profissão de todos os clientes, ordenado pelo nome em ordem crescente
+
+2. Os clientes que tenham a letra “L” no nome
+
+3. Os clientes que o nome inicia com a letra “P”
+
+4. Os clientes que o nome termina com a letra “s”
+
+5. Somente os clientes do sexo masculino
+
+6. Os clientes que o nome da profissção comece com o termo “Eng”
+
+7. Somente os clientes do sexo feminino
+
+8. O nome e a profissão dos clientes, ordenado em ordem crescente pelo nome do cliente
+
+9. O nome e a profissão dos clientes, ordenado em ordem decrescente pelo nome da profissão
+
+10. Os clientes que nas observações colocaram “Vegan”
+
+11. Os clientes que nasceram entre 01 janeiro de 1980 e 31 de dezembro de 1986
+
+12. O nome do cliente, profissao e e sexo concatenado no formato "Nome: [nome] Profissão: [profissao] Sexo: [sexo]" de todos os clientes ordenado de forma crescente pelo nome 
+
