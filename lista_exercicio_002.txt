@@ -1,0 +1,29 @@
+--------------------------------------
+Exercícios - comandos update e delete
+--------------------------------------
+
+1 - Insira os registros abaixo na tabela cliente
+
+| cliente_id | nome     | cpf         | data_nascimento | sexo | profissao | observacoes |
+| 16         | Ruan     | 98765432101 |                 | F    |           |             |
+| 17         | Casimiro | 98765432102 | 09/08/1979      | M    |           |             | 	
+| 18         | Anelise  | 98765432103 |                 |      | Arquiteta |             |
+
+2 - Altere os dados do cliente Ruan
+	2.1 - O sexo para M
+	2.2 - A data de nascimento para 05/02/1982
+	2.3 - A profissão para Engenheiro civil
+	2.4 - A observação para Detalhista
+
+3 - Altere os dados do cliente Casimiro
+	3.1 - A data de nascimento para 19/08/1979
+	3.2 - O nome para Casimiro Pereira
+
+4 - Altere os dados da cliente Anelise
+	4.1 - A profissão para Psicóloga
+	4.2 - O sexo para F
+	4.3 - E as observações para Psicóloga psicoterapeuta
+
+5 - Apague o cliente Casimiro
+
+6 - Apague a cliente Anelise
