@@ -1,4 +1,8 @@
 
+--------------------------------------------------
+Crie as tabelas abaixo consforme as especificações
+--------------------------------------------------
+
 | Tabela fornecedor                                                          |
 |----------------------------------------------------------------------------|
 | Nome do campo | Tipo do Campo          | Restrições                        |
