@@ -1,0 +1,61 @@
+-------------------------------------
+Inserção de dados nas tabelas criadas
+-------------------------------------
+
+| Tabela fornecedor                                    |
+|------------------------------------------------------|
+| fornecedor_id | nome                                 |
+| 1             | Papel & Caneta Ltda                  |
+| 2             | Escritório Total                     |
+| 3             | Suprimentos Universais de Escritório |
+| 4             | Artefatos de Escritório Requintados  |
+| 5             | Globos de Escritório e Mais          |
+
+
+| Tabela transportadora                          |
+|------------------------------------------------|
+| transportadora_id | nome                       |
+| 1                 | Entrega Expressa Ltda      |
+| 2                 | Logística Global           |
+| 3                 | Entregas Rápidas e Seguras |
+| 4                 | Transporte Seguro          |
+| 5                 | Logística Padrão Ouro      |
+| 6                 | Entrega Garantida S.A.     |
+
+
+| Tabela marca              |
+|---------------------------|
+| marca_id | nome           |
+| 1        | EscritoMáximo  |
+| 2        | Papéis Premier |
+| 3        | CanetaCrível   |
+| 4        | NotaBrilhante  |
+
+
+
+
+| Tabela produto                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|
+| produto_id | fornecedor_id                        | marca_id       | nome                        | preco_custo | preco_venda |
+| 1          | Papel & Caneta Ltda                  | EscritoMáximo  | Caneta Azul                 | 0.50        | 1.00        | 
+| 2          | Papel & Caneta Ltda                  | Papéis Premier | Pacote de Papel A4          | 3.00        | 5.00        |
+| 3          | Escritório Total                     | CanetaCrível   | Lapiseira 0.5mm             | 1.00        | 2.00        |
+| 4          | Escritório Total                     | NotaBrilhante  | Borracha Branca             | 0.30        | 0.60        |
+| 5          | Suprimentos Universais de Escritório | EscritoMáximo  | Clips Coloridos             | 1.00        | 2.00        |
+| 6          | Suprimentos Universais de Escritório | Papéis Premier | Pacote de Post-it           | 1.50        | 3.00        |
+| 7          | Artefatos de Escritório Requintados  | CanetaCrível   | Caderno Universitário       | 4.00        | 8.00        |
+| 8          | Artefatos de Escritório Requintados  | NotaBrilhante  | Pacote de Canetas Coloridas | 2.00        | 4.00        |
+| 9          | Papel & Caneta Ltda                  | EscritoMáximo  | Estojo Escolar              | 5.00        | 10.00       |
+| 10         | Papel & Caneta Ltda                  | Papéis Premier | Estojo Escolar              | 0.15        | 0.30        |
+| 11         | Escritório Total                     | CanetaCrível   | Régua 30cm                  | 0.80        | 1.60        |
+| 12         | Escritório Total                     | NotaBrilhante  | Apontador com Depósito      | 0.75        | 1.50        |
+| 13         | Suprimentos Universais de Escritório | EscritoMáximo  | Pasta Catálogo              | 6.00        | 12.00       |
+| 14         | Suprimentos Universais de Escritório | Papéis Premier | Fita Adesiva                | 1.20        | 2.40        |
+| 15         | Artefatos de Escritório Requintados  | CanetaCrível   | Pincel Atômico              | 1.30        | 2.60        |
+| 16         | Artefatos de Escritório Requintados  | NotaBrilhante  | Corretivo Líquido           | 2.50        | 5.00        |
+| 17         | Papel & Caneta Ltda                  | EscritoMáximo  | Calculadora Simples         | 8.00        | 16.00       |
+| 18         | Escritório Total                     | Papéis Premier | Grampeador Pequeno          | 4.50        | 9.00        |
+| 19         | Suprimentos Universais de Escritório | CanetaCrível   | Caixa de Clips              | 2.00        | 4.00        |
+| 20         | Artefatos de Escritório Requintados  | NotaBrilhante  | Resma de Papel Sulfite      | 15.00       | 30.00       |
+
+
