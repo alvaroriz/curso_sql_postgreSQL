@@ -1,0 +1,34 @@
+-------------------------------------------------------
+-- Exercícios de agregação
+-------------------------------------------------------
+
+1. Encontre a soma total dos valores dos pedidos.
+2. Encontre a média do total dos pedidos.
+3. Encontre o pedido de maior valor.
+4. Encontre o pedido de menor valor.
+5. Conte o número total de pedidos.
+6. Encontre o cliente com a maior quantidade de pedidos.
+7. Encontre a transportadora que transportou pedidos com o maior valor total.
+8. Encontre os clientes que fizeram mais de 1 pedido.
+9. Encontre as transportadoras que transportaram pedidos com valor total superior a 1000.
+10. Encontre a média dos valores dos pedidos para cada cliente, mas liste apenas os clientes com média superior a 250.
+11. Encontre o valor máximo do pedido para cada cliente, mas liste apenas os clientes que têm um valor máximo de pedido superior a 100.
+12. Encontre o valor mínimo do pedido para cada cliente, mas liste apenas os clientes que têm um valor mínimo de pedido inferior a 100.
+13. Encontre o número total de pedidos para cada transportadora, mas liste apenas as transportadoras que transportaram mais de 3 pedidos.
+14. Encontre o valor total dos pedidos para cada cliente, mas liste apenas os clientes cujo valor total dos pedidos é inferior a 100.
+15. Encontre a média dos valores dos pedidos para cada transportadora, mas liste apenas as transportadoras com média superior a 300.
+16. Encontre o valor máximo do pedido para cada transportadora, mas liste apenas as transportadoras que têm um valor máximo de pedido superior a 200.
+17. Encontre o valor mínimo do pedido para cada transportadora, mas liste apenas as transportadoras que têm um valor mínimo de pedido inferior a 200.
+18. Encontre o número total de pedidos para cada cliente, mas liste apenas os clientes que fizeram menos de 2 pedidos.
+19. Encontre o valor total dos pedidos para cada transportadora, mas liste apenas as transportadoras cujo valor total dos pedidos é superior a 1000.
+20. Encontre a média dos valores dos pedidos para cada cliente, mas liste apenas os clientes com média inferior a 250.
+21. A quantidade de marcas que possuem a palavra "Caneta" no nome.
+22. A quantidade de cidades por estado_id.
+23. Encontre a soma da quantidade dos 5 produtos mais vendidos.
+24. Para cada pedido, mostre o ID do pedido e a quantidade total de produtos onde a quantidade de produto é maior que 10.
+25. Mostre os 10 produtos mais caros que foram comprados mais de 5 vezes.
+26. Para cada produto, mostre o ID do produto e a concatenação do ID do pedido e da quantidade no formato: 'Pedido: [pedido_id] - Quantidade: [quantidade]'.
+27. Mostre os pedidos que têm um total de produtos superior a 5 e um preço unitário médio superior a 6.0.
+28. Mostre a concatenação do ID do pedido e da quantidade total de produtos para os 5 pedidos com a maior quantidade de produtos.
+29. Mostre os 5 pedidos com a maior quantidade de produtos, excluindo aqueles que possuem mais de 30 produtos.
+30. Encontre a quantidade de pedidos entre 01/04/2023 e 11/07/2023.
