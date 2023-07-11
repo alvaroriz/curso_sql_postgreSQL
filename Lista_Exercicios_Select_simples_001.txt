@@ -1,0 +1,40 @@
+1. Selecione todos os clientes.
+2. Selecione o nome e a data de nascimento de todos os clientes.
+3. Selecione todas as cidades em ordem alfabética.
+4. Selecione o nome e o preço de custo de todos os produtos.
+5. Selecione o nome, o CPF e a data de nascimento dos clientes do gênero feminino.
+6. Selecione o nome dos fornecedores em ordem alfabética inversa.
+7. Selecione o nome das cidades do estado do Rio de janeiro
+8. Selecione o nome, e a observação dos clientes cuja profissão seja "Médico".
+9. Selecione o nome, o preço de venda dos produtos com preço de venda igual ou acima de 2.00 ordenado de forma decrescente pelo preco de venda
+10. Selecione os cinco primeiros registros com números do pedido, id do produto e a quantidade de produtos em cada pedido ordenado de forma decrescente pela quantidade de produtos
+11. Selecione o nome e o CPF dos 10 primeiros clientes ordenados pelo nome de forma alfabética
+12. Selecione o nome e a data de nascimento dos clientes do gênero masculino ordenado forma crescente pela data de nascimento.
+13. Selecione o nome das cidades em ordem alfabética inversa.
+14. Selecione o nome, o preço de venda e a diferença entre o preço de venda e o preço de custo de todos os produtos.
+15. Selecione o nome, o cpf e as observações dos clientes cuja observação é nula.
+16. Selecione o nome dos fornecedores em ordem alfabética.
+17. Selecione o nome dos produtos cujo nome contém a palavra "Caneta".
+18. Selecione o nome e o CPF dos clientes de foema concatenada separado por - (traço) e o nome da coluna deve ser "NomeCpf"
+19. Selecione o nome das transportadoras em ordem alfabética.
+20. Selecione o id do produto e a quantidade de produtos em cada pedido, ordenado pelo id do produto de forma crescente e limitando o resultado a 5 linhas.
+21. Selecione o nome e o CPF de todos os clientes que começam com a letra A ordenado pelo nome em ordem alfabetica.
+22. Selecione o nome e o id da profissão dos clientes que não possuem uma profissão cadastrada.
+23. Selecione o nome e a data de nascimento dos clientes do gênero feminino em ordem inversa de idade.
+24. Selecione o nome e a sigla de cada estado (UF).
+25. Selecione o nome, o preco de custo e o preço de venda de todos os produtos.
+26. Selecione o nome, o preço de custo e o preço de venda dos produtos com preço de venda superior a 5.00.
+27. Selecione o nome e a observação dos clientes que possuem observações registradas.
+28. Selecione o nome e o preço de venda dos produtos com preço de venda entre 5.0 e 10.0.
+29. Selecione o nome e o total de cada pedido, ordenando pelo total em ordem decrescente.
+30. Selecione todos os dados dos clientes que possuem nome que começe com a letra "R" e possui observações
+31. Selecione o nome dos estados cujo nome contém a palavra "Rio".
+32. Selecione o nome, o preço de custo e o preço de venda dos produtos com preço de venda maior que o preço de custo.
+33. Selecione o nome dos fornecedores em ordem alfabética inversa e limite o resultado a 5 linhas.
+34. Selecione o nome e o CPF dos clientes cujo CPF começa com "123".
+35. Selecione todas as marcas em ordem alfabética
+36. Selecione o nome de todas as transportadoras que possuam a palavra "Entrega" e termine com a palavra "Ltda"
+37. Selecione o nome de todos os gêneros ordenado de forma algabética
+38. Selecione todos os pedidos efetuados na data '2023-05-12' Feitos pela cliente ana e transportado pela transportadora "Transporte Seguro"
+39. Selecione o logradouro, numero, complemento, bairro e cep de todos os endereços da cidade de "Petrópolis"
+40. Selecione todos os dados dos endereços que não possuam informação de complemento
