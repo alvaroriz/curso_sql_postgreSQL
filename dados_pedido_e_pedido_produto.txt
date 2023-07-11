@@ -4,25 +4,25 @@ Dados das tabelas de pedido e prdido_produto
 ------------------------------------------------------------
 
 
-| Tabela pedido                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------|
-| pedido_id | cliente_id      | fornecedor_id                        | transportadora_id          | data       | total |
-|-----------|-----------------|--------------------------------------|----------------------------|------------|-------|
-| 1         | Rodrigo Campos  | Papel & Caneta Ltda                  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
-| 2         | Ana             | Globos de Escritório e Mais          | Transporte Seguro          | 2023-05-12 | 0.0   |
-| 3         | Rodrigo Campos  | Artefatos de Escritório Requintados  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
-| 4         | Pedro           | Artefatos de Escritório Requintados  | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
-| 5         | Pedro           | Globos de Escritório e Mais          | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
-| 6         | Luís            | Escritório Total                     | Logística Global           | 2023-05-12 | 0.0   |
-| 7         | Felipe          | Escritório Total                     | Transporte Seguro          | 2023-05-12 | 0.0   |
-| 8         | Gustavo         | Artefatos de Escritório Requintados  | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
-| 9         | Patricia        | Papel & Caneta Ltda                  | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
-| 10        | Bruno           | Papel & Caneta Ltda                  | Entrega Garantida S.A.     | 2023-05-12 | 0.0   |
-| 11        | Carolina        | Artefatos de Escritório Requintados  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
-| 12        | Roberto         | Suprimentos Universais de Escritório | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
-| 13        | Maria Barcelos  | Papel & Caneta Ltda                  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
-| 14        | Roberto         | Globos de Escritório e Mais          | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
-| 15        | Maria Barcelos  | Globos de Escritório e Mais          | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| Tabela pedido                                                                 |
+|-------------------------------------------------------------------------------|
+| pedido_id | cliente_id      | transportadora_id          | data       | total |
+|-----------|-----------------|----------------------------|------------|-------|
+| 1         | Rodrigo Campos  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 2         | Ana             | Transporte Seguro          | 2023-05-12 | 0.0   |
+| 3         | Rodrigo Campos  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 4         | Pedro           | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 5         | Pedro           | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 6         | Luís            | Logística Global           | 2023-05-12 | 0.0   |
+| 7         | Felipe          | Transporte Seguro          | 2023-05-12 | 0.0   |
+| 8         | Gustavo         | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 9         | Patricia        | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 10        | Bruno           | Entrega Garantida S.A.     | 2023-05-12 | 0.0   |
+| 11        | Carolina        | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 12        | Roberto         | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 13        | Maria Barcelos  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 14        | Roberto         | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 15        | Maria Barcelos  | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
 
 
 
