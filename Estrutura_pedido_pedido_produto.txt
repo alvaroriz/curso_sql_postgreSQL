@@ -9,7 +9,6 @@
 |-------------------|------------------------|--------------------------------------|
 | pedido_id         | Integer                | Chave primária, não permite nulos    |
 | cliente_id        | Integer                | Chave estrangeira, não permite nulos |
-| fornecedor_id     | Integer                | Chave estrangeira, não permite nulos |
 | transportadora_id | Integer                | Chave estrangeira, não permite nulos |
 | data              | Date                   | não permite nulos                    |
 | total             | decimal(8,2)           | não permite nulos                    |
