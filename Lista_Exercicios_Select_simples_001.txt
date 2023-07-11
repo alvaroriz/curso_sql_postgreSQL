@@ -31,7 +31,7 @@
 26. Selecione o nome, o preço de custo e o preço de venda dos produtos com preço de venda superior a 5.00.
 27. Selecione o nome e a observação dos clientes que possuem observações registradas.
 28. Selecione o nome e o preço de venda dos produtos com preço de venda entre 5.0 e 10.0.
-29. Selecione o nome e o total de cada pedido, ordenando pelo total em ordem decrescente.
+29. Selecione o id o cliente e a data de todos os pedidos, ordenando pela data em ordem decrescente.
 30. Selecione todos os dados dos clientes que possuem nome que começe com a letra "R" e possui observações
 31. Selecione o nome dos estados cujo nome contém a palavra "Rio".
 32. Selecione o nome, o preço de custo e o preço de venda dos produtos com preço de venda maior que o preço de custo.
