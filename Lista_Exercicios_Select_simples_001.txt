@@ -1,3 +1,8 @@
+
+---------------------------------------------------------------
+--Lista de exercícios de selects simples
+---------------------------------------------------------------
+
 1. Selecione todos os clientes.
 2. Selecione o nome e a data de nascimento de todos os clientes.
 3. Selecione todas as cidades em ordem alfabética.
