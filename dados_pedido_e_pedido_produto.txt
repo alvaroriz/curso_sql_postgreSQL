@@ -1,0 +1,112 @@
+
+------------------------------------------------------------
+Dados das tabelas de pedido e prdido_produto
+------------------------------------------------------------
+
+
+| Tabela pedido                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------|
+| pedido_id | cliente_id      | fornecedor_id                        | transportadora_id          | data       | total |
+|-----------|-----------------|--------------------------------------|----------------------------|------------|-------|
+| 1         | Rodrigo Campos  | Papel & Caneta Ltda                  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 2         | Ana             | Globos de Escritório e Mais          | Transporte Seguro          | 2023-05-12 | 0.0   |
+| 3         | Rodrigo Campos  | Artefatos de Escritório Requintados  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 4         | Pedro           | Artefatos de Escritório Requintados  | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 5         | Pedro           | Globos de Escritório e Mais          | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 6         | Luís            | Escritório Total                     | Logística Global           | 2023-05-12 | 0.0   |
+| 7         | Felipe          | Escritório Total                     | Transporte Seguro          | 2023-05-12 | 0.0   |
+| 8         | Gustavo         | Artefatos de Escritório Requintados  | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 9         | Patricia        | Papel & Caneta Ltda                  | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 10        | Bruno           | Papel & Caneta Ltda                  | Entrega Garantida S.A.     | 2023-05-12 | 0.0   |
+| 11        | Carolina        | Artefatos de Escritório Requintados  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 12        | Roberto         | Suprimentos Universais de Escritório | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+| 13        | Maria Barcelos  | Papel & Caneta Ltda                  | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 14        | Roberto         | Globos de Escritório e Mais          | Entrega Expressa Ltda      | 2023-05-12 | 0.0   |
+| 15        | Maria Barcelos  | Globos de Escritório e Mais          | Entregas Rápidas e Seguras | 2023-05-12 | 0.0   |
+
+
+
+| Tabela pedido_produto                                                                         |
+|-------------------|-----------|---------------------------------|------------|----------------|
+| pedido_produto_id | pedido_id | produto                         | quantidade | preco_unitario |
+|-------------------|-----------|---------------------------------|------------|----------------|
+| 1                 | 1         | Pacote de Canetas Coloridas     | 6          | 4.00           |
+| 2                 | 1         | Pasta Catálogo                  | 4          | 12.00          |
+| 3                 | 1         | Caderno Universitário           | 6          | 8.00           |
+| 4                 | 1         | Pincel Atômico                  | 7          | 2.60           |
+| 5                 | 1         | Lapiseira 0.5mm                 | 15         | 2.00           |
+| 6                 | 1         | Lapiseira 0.5mm                 | 9          | 2.00           |
+| 7                 | 2         | Corretivo Líquido               | 5          | 5.00           |
+| 8                 | 2         | Corretivo Líquido               | 10         | 5.00           |
+| 9                 | 2         | Borracha Branca                 | 5          | 0.60           |
+| 10                | 2         | Pacote de Post-it               | 14         | 3.00           |
+| 11                | 2         | Fita Adesiva                    | 7          | 2.40           |
+| 12                | 2         | Caneta Azul                     | 14         | 1.00           |
+| 13                | 2         | Resma de Papel Sulfite          | 3          | 30.00          |
+| 14                | 2         | Calculadora Simples             | 3          | 16.00          |
+| 15                | 3         | Caderno Universitário           | 3          | 8.00           |
+| 16                | 3         | Borracha Branca                 | 1          | 0.60           |
+| 17                | 3         | Pacote de Post-it               | 12         | 3.00           |
+| 18                | 3         | Pasta Catálogo                  | 15         | 12.00          |
+| 19                | 3         | Clips Coloridos                 | 7          | 2.00           |
+| 20                | 4         | Grampeador Pequeno              | 9          | 9.00           |
+| 21                | 4         | Pacote de Papel A4              | 13         | 5.00           |
+| 22                | 4         | Borracha Branca                 | 8          | 0.60           |
+| 23                | 4         | Pacote de Post-it               | 2          | 3.00           |
+| 24                | 4         | Pincel Atômico                  | 14         | 2.60           |
+| 25                | 5         | Calculadora Simples             | 5          | 16.00          |
+| 26                | 5         | Grampeador Pequeno              | 2          | 9.00           |
+| 27                | 5         | Clips Coloridos                 | 6          | 2.00           |
+| 28                | 5         | Pacote de Canetas Coloridas     | 4          | 4.00           |
+| 29                | 5         | Calculadora Simples             | 1          | 16.00          |
+| 30                | 5         | Clips Coloridos                 | 3          | 2.00           |
+| 31                | 5         | Pacote de Canetas Coloridas     | 5          | 4.00           |
+| 32                | 5         | Fita Adesiva                    | 3          | 2.40           |
+| 33                | 5         | Grampeador Pequeno              | 12         | 9.00           |
+| 34                | 6         | Resma de Papel Sulfite          | 7          | 30.00          |
+| 35                | 6         | Calculadora Simples             | 9          | 16.00          |
+| 36                | 6         | Fita Adesiva                    | 12         | 2.40           |
+| 37                | 7         | Lapiseira 0.5mm                 | 12         | 2.00           |
+| 38                | 7         | Apontador com Depósito          | 10         | 1.50           |
+| 39                | 7         | Calculadora Simples             | 7          | 16.00          |
+| 40                | 7         | Caixa de Clips                  | 10         | 4.00           |
+| 41                | 8         | Caneta Azul                     | 9          | 1.00           |
+| 42                | 8         | Clips Coloridos                 | 5          | 2.00           |
+| 43                | 8         | Corretivo Líquido               | 12         | 5.00           |
+| 44                | 8         | Grampeador Pequeno              | 5          | 9.00           |
+| 45                | 8         | Estojo Escolar                  | 9          | 0.30           |
+| 46                | 8         | Apontador com Depósito          | 7          | 1.50           |
+| 47                | 8         | Grampeador Pequeno              | 5          | 9.00           |
+| 48                | 8         | Apontador com Depósito          | 8          | 1.50           |
+| 49                | 9         | Pacote de Papel A4              | 4          | 5.00           |
+| 50                | 9         | Clips Coloridos                 | 10         | 2.00           |
+| 51                | 9         | Régua 30cm                      | 9          | 1.60           |
+| 52                | 9         | Pacote de Post-it               | 14         | 3.00           |
+| 53                | 10        | Corretivo Líquido               | 2          | 5.00           |
+| 54                | 10        | Pacote de Canetas Coloridas     | 8          | 4.00           |
+| 55                | 11        | Pacote de Post-it               | 12         | 3.00           |
+| 56                | 11        | "Borracha Branca"               | 9          | 0.60           |
+| 57                | 11        | "Pasta Catálogo"                | 15         | 12.00          |
+| 58                | 11        | "Pasta Catálogo"                | 13         | 12.00          |
+| 59                | 11        | "Pincel Atômico"                | 15         | 2.60           |
+| 60                | 11        | "Corretivo Líquido"             | 6          | 5.00           |
+| 61                | 11        | "Borracha Branca"               | 3          | 0.60           |
+| 62                | 12        | "Apontador com Depósito"        | 9          | 1.50           |
+| 63                | 12        | "Pacote de Canetas Coloridas"   | 3          | 4.00           |
+| 64                | 12        | "Caderno Universitário"         | 4          | 8.00           |
+| 65                | 12        | "Corretivo Líquido"             | 6          | 5.00           |
+| 66                | 13        | "Caderno Universitário"         | 2          | 8.00           |
+| 67                | 13        | "Fita Adesiva"                  | 13         | 2.40           |
+| 68                | 13        | "Caderno Universitário"         | 11         | 8.00           |
+| 69                | 14        | "Caixa de Clips"                | 8          | 4.00           |
+| 70                | 14        | "Apontador com Depósito"        | 7          | 1.50           |
+| 71                | 14        | "Estojo Escolar"                | 3          | 10.00          |
+| 72                | 14        | "Caixa de Clips"                | 8          | 4.00           |
+| 73                | 14        | "Pincel Atômico"                | 6          | 2.60           |
+| 74                | 15        | "Pincel Atômico"                | 7          | 2.60           |
+| 75                | 15        | "Calculadora Simples"           | 2          | 16.00          |
+| 76                | 15        | "Lapiseira 0.5mm"               | 2          | 2.00           |
+| 77                | 15        | "Fita Adesiva"                  | 8          | 2.40           |
+| 78                | 15        | "Grampeador Pequeno"            | 3          | 9.00           |
+| 79                | 15        | "Resma de Papel Sulfite"        | 1          | 30.00          |
+| 80                | 15        | "Lapiseira 0.5mm"               | 5          | 2.00           |
