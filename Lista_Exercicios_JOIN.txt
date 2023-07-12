@@ -1,0 +1,30 @@
+-----------------------------
+--Exercicios de JOIN
+-----------------------------
+
+1. Retorne o nome, genero e a profissão de todos os clientes.
+2. Retorne o nome, marca, fornecedor, preco de custo e preco de venda de todos os produtos
+3. Retorne o id do pedido, nome do cliente, nome da transportadora e o total e aquantidade de cada pedido
+4. Retorne o nome do produto, o nome da marca, o fornecedor o valor total vendido e a quantidade total vendida ordenado pelo total vendido decrescente
+5. retorne os TOP 5 clientes que mais unidades de produtos compraram
+6. Liste o nome de todos os clientes que fizeram pedidos.
+7. Mostre o nome do cliente, a data do pedido e o total de cada pedido.
+8. Mostre o nome do produto, a quantidade e o preço unitário de cada item de pedido.
+9. Exiba o nome do cliente e o valor total de todos os pedidos feitos por ele.
+10. Mostre o nome do cliente, a data do pedido e o total de cada pedido em ordem decrescente de valor.
+11. Liste todos os fornecedores juntamente com seus endereços competo.
+12. Exiba o nome do fornecedor e a quantidade de produtos fornecidos por ele.
+13. Mostre o nome do fornecedor, o nome do produto e a quantidade fornecida de cada produto.
+14. Liste todas as cidades juntamente com os estados correspondentes.
+15. Exiba o nome da cidade e a quantidade de clientes que residem em cada cidade.
+16. Mostre o nome da cidade, o nome do cliente e a quantidade de pedidos feitos por cada cliente.
+17. Liste todas as profissões juntamente com a quantidade de clientes em cada profissão.
+18. Mostre o nome da profissão, o nome do cliente e o total gasto por cada cliente em cada profissão.
+19. Liste todas as transportadoras juntamente com o número de pedidos entregues por cada uma.
+20. Exiba o nome da transportadora e a receita total gerada pelos pedidos entregues por ela.
+21. Liste todos os clientes, juntamente com seus respectivos número de pedidos, mesmo que não tenham feito nenhum pedido ainda.
+22. Exiba o nome dos clientes que fizeram pedidos e a data do pedido e o nome dos clientes que não fizeram pedidos ainda.
+23. Liste todos os produtos juntamente com os fornecedores correspondentes, mostrando também os produtos que não possuem fornecedores.
+24. Exiba o nome dos fornecedores e a quantidade de produtos fornecidos por eles, incluindo os fornecedores que não têm produtos.
+25. Mostre o nome dos fornecedores e o nome dos produtos fornecidos por eles, incluindo os fornecedores e produtos que não estão relacionados.
+26. Liste todos os produtos juntamente com os ids dos pedidos correspondentes, mostrando também os produtos que não foram incluídos em nenhum pedido.
