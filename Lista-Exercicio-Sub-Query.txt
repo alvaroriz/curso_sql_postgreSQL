@@ -1,0 +1,20 @@
+1. Liste o nome e CPF de todos os clientes que fizeram ao menos 1 pedido
+2. Liste o nome dos clientes que fizeram um pedido no dia atual.
+3. Liste o nome dos clientes que fizeram ao menos um pedido no mês atual.
+4. Liste o nome dos clientes que fizeram um pedido com valor total maior que 100.
+5. Liste o nome dos clientes que fizeram um pedido com valor total maior que a média de todos os pedidos.
+6. Liste o nome dos clientes que possuem um pedido com mais de 3 produtos.
+7. Liste o nome dos clientes que possuem um pedido com produtos da marca "EscritoMáximo.
+8. Liste o nome dos clientes que possuem um pedido em que todos os produtos tenham preço de venda maior que 50.
+9. Liste o nome e o valor total gasto por cada cliente em seus pedidos.
+10. Liste o nome dos clientes e a data do último pedido realizado por cada um.
+11. Liste o nome dos clientes e a quantidade de pedidos realizados por cada um.
+12. Liste o nome dos clientes e o valor do último pedido realizado por cada um.
+13. Liste o nome dos clientes e a data do primeiro pedido realizado por cada um.
+14. Liste o nome e a quantidade total de produtos vendidos para cada cliente.
+15. Liste o nome dos clientes e a quantidade de produtos da marca "Papéis Premier" comprados por cada um dos cliente
+16. Liste o nome dos clientes e a quantidade de produtos comprados em seu primeiro pedido.
+17. Liste o nome dos clientes e a quantidade de pedidos realizados no ano atual.
+18. Liste o nome dos clientes e o valor total gasto em pedidos nos últimos 3 meses.
+19. Liste o nome dos clientes e a quantidade de produtos comprados em pedidos nos últimos 7 dias.
+20. Liste todos os clientes que nasceram no mesmo ano do Roberto, excluindo o Roberto
