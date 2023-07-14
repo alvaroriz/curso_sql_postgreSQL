@@ -4,5 +4,5 @@
 
 -- 1. Crie um índice para o campo data na tabela pedido
 -- 2. crie um indice para o campo total na tabela pedido
--- 3. Crie um índice para o campo produto na tabela produto
+-- 3. Crie um índice para o campo nome na tabela produto
 -- 4. crie um índice para o campo nome na tabela cidade
