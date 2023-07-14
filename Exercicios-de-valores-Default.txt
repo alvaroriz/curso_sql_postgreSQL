@@ -1,0 +1,8 @@
+--------------------------------
+-- Exercícios de valores Default
+--------------------------------
+
+-- 1. Adicione o valor default 1 à coluna quantidade na tabela pedido_produto;
+-- 2. Adicione o valor default 0 à coluna preco_unitario na tabela pedido_produto;
+-- 3. Adicione o valor default 0 à coluna preco_custo na tabela produto;
+-- 4. Adicione o valor default 0 à coluna preco_venda na tabela produto;
