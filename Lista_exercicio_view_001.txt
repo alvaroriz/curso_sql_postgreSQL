@@ -1,0 +1,8 @@
+-------------------
+Exercícios de Views
+-------------------
+
+1. Crie uma view chamada "vw_relatorio_pedidos_mkt" que retone o nome do cliente, seu endereço completo e quantidade de pedidos, mesmo que o cliente nao possua endereço ou pedidos
+2. Crie uma view chamada "vw_pedidos_exportacao_erp_xpto" que retone de forma concatenada usando ";" como separador, em um único campo os dados de pedido_id, cliente_id, transportadora_id, data do pedido e total do pedido
+3. Crie uma view chamada "vw_relatorio_produto_preco" que retone o nome do produto, o preço de custo, o preço de venda, o lucro absoluto e o lucro percentual do produto
+4. Crie uma view chamada "vw_aniversariantes_mes" que retone o nome, a data de nascimento e a idade dos aniversariantes do mes atual ordenado de forma ascendente pela data de nascimento
