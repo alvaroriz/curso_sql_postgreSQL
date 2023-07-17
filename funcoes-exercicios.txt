@@ -1,0 +1,19 @@
+
+---------------------
+-- Exercícios Funcoes
+---------------------
+1 . Crie uma função que receba um valor decimal e retorne com o símbolo de real antes do número, como "R$ 00,00"
+
+2. Crie uma função que receba o valor de venda e o valor de custo e retorne a lucratividade em porcentual
+lucratividade = ((venda - custo)/custo) * 100
+
+3. Crie uma funcao que concatene duas strings separados por um separador informado
+Ex.: passando string1="segunda", string2="feira" e separador="-" o resultado deverá ser "segunda-feira"
+
+4. Crie uma função que mediante informacao do cliente_id retorne o seguinte:
+O nome do cliente com todas as letras em maúsculo, 
+O CPF no formato 000.000.000-00
+A data de nascimento no formato DD/MM/AAAA
+concatenados pelo caractere ";".
+Exemplo de resultado: ALVARO;065.985.654-11;09/08/1979
+O nome da função deve ser: formata_cliente_para_erp_xyz
