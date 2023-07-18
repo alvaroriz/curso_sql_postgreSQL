@@ -3,6 +3,5 @@
 -----------------------------------------
 
 1. Criar uma stored procedure para atualizar o preço de um produto, passando o id do produto e o valor porcentual
-2. Criar uma stored procedure para atualizar o preço de um produto, passando o id do produto e o valor porcentual
-3. Crie uma estored procedure que exclua um cliente quando informado um cliente_id
-4. crie uma stored procedure que receba os parâmetros: pedido_id e status_pedido e insira os dados na tabela log do pedido:
+2. Crie uma estored procedure que exclua um cliente quando informado um cliente_id
+3. crie uma stored procedure que receba os parâmetros: pedido_id e status_pedido e insira os dados na tabela log do pedido:
