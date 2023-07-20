@@ -1,0 +1,17 @@
+------------------------------------
+-- Exercícios - Perfis e usuários
+------------------------------------
+
+1. Crie o seguinte perfil para usuários do atendimento:
+	1.1 - perfil_atendente (Somente executar select nas views vw_aniversariantes_mes e vw_cliente_para_relatorio)
+	1.2 - criar dois usuarios, atendentes camila e renata e associar os usuários ao perfil criado.
+	
+	
+2. Crie o seguinte perfil para usuários da área de vendas:	
+	2.2 - perfil_vendas (Executar select, insert, update e delete nas tabelas pedido e pedido_produto)
+	2.3 - crie 5 usuários para os vendedores juliana, ricardo, antonio, vanessa e rafaela
+	
+	
+3. Crie o seguinte perfil para usuários do departamento de cadastro:		
+	3.1 - perfil_departamento_cadastro (Todos os privilégios nas tabelas: categoria, cliente, cliente_endereco, endereco, fornecedor, genero, marca, produto, profissao, transportadora)
+	3.2 - cre 2 usuários para os colaboradores carlos e joana e associe ao perfil criado
